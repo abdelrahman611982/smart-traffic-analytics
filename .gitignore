@@ -23,9 +23,6 @@ MVI_40191/
 *.mov
 *.mkv
 
-# Generated analytics
-traffic_density.csv
-
 # OS files
 .DS_Store
 Thumbs.db
