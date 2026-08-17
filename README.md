@@ -212,3 +212,6 @@ appropriate.
 -   Multiple video/camera support.
 -   Real-time camera or video input.
 -   Robust camera calibration for metric speed estimation.
+
+# Demo video
+!demo.mp4

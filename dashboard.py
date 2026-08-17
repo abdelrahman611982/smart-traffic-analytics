@@ -405,7 +405,7 @@ with st.expander("View Traffic Density Data"):
 st.subheader("Traffic Tracking Video")
 
 
-video_path = "traffic_tracking.mp4"
+video_path = "demo.mp4"
 
 try:
 
