@@ -26,3 +26,7 @@ MVI_40191/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Demo video
+*.mp4
+!demo.mp4
