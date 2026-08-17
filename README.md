@@ -1,6 +1,12 @@
 # Smart Traffic Analytics
 
-🚀 **[Live Dashboard](https://smart-traffic-analytics-xphsjr5y8dkdlvwsptzpds.streamlit.app/)**
+## Demo
+
+Watch the traffic tracking demo:
+
+[🎥 Watch Demo Video](demo.mp4)
+
+[🚀 Live Dashboard](https://smart-traffic-analytics-xphsj5y8dkdlwpsptpzds.streamlit.app/)
 
 A Computer Vision project for traffic analysis using YOLO and BoT-SORT.
 The system detects and tracks vehicles, counts vehicles crossing a line,
